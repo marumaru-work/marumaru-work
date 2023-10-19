@@ -6,8 +6,6 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile-Views-blue)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,php,r,html,css,powershell,dotnet,mysql,unity,aws,twitter,instagram,discord,git,github,visualstudio,vscode,pr,linux)](https://skillicons.dev)
-
 ### Programming Language
 [![My Skills](https://skillicons.dev/icons?i=c,cs,php,r,html,css,powershell)](https://skillicons.dev)
 
