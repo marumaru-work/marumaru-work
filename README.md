@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=windows,mac,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 <!--
 **marumaru-work/marumaru-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
