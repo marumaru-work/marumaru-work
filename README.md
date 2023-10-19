@@ -6,8 +6,31 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile-Views-blue)
 
-### Tools used
 [![My Skills](https://skillicons.dev/icons?i=c,cs,php,r,html,css,powershell,dotnet,mysql,unity,aws,twitter,instagram,discord,git,github,visualstudio,vscode,pr,linux)](https://skillicons.dev)
+
+### Programming Language
+[![My Skills](https://skillicons.dev/icons?i=c,cs,php,r,html,css,powershell)](https://skillicons.dev)
+
+### Framework
+[![My Skills](https://skillicons.dev/icons?i=dotnet,unity)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### Cloud Service
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+### SNS
+[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,discord)](https://skillicons.dev)
+
+### Version Control Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+### IDE
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+
+### OS
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 <!--
 **marumaru-work/marumaru-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
