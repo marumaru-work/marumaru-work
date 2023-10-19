@@ -6,7 +6,7 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile-Views-blue)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,unity)](https://skillicons.dev)
 
 <!--
 **marumaru-work/marumaru-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
